@@ -2,7 +2,8 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
 import java.io.IOException;
-
+/*You have got two separate txt files with 1000-digit numbers. 
+You have to multiply them and write the result to the third txt file*/
 public class MultiplyBigNumbers {
 
 	public static void main(String[] args) {
